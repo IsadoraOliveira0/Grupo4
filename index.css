@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: rgb(252, 252, 252);
+    text-align: center;
+    padding: 0px;
+    background-color: rgb(207, 5, 5); 
+}
+
+Nav a{
+    color: rgb(252, 252, 252);
+    font-size: 20px;
+    margin: 40px;
+    text-decoration:none;
+    font-family: 'Times New Roman', Times, serif;
+}
+P{
+text-align: center;
+}
+
+.fora{
+    display: flex;
+}
+
+h3{
+    background-color: #df1010;
+    color: #fff;
+    font-family:'Times New Roman', Times, serif;
+    padding:5px;
+    text-align: center;
+}
+
+.tecnologia{
+    text-align:justify;
+    margin: 2%;
+    font-size: 17px;
+}
+
+.divdedentro{
+    display: flex;
+    margin: 2%;
+}
+
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: #df1010;
+    color: #fff;
+    position: relative;
+
+}
